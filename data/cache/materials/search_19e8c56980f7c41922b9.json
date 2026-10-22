@@ -1,0 +1,80 @@
+{
+  "cached_at": "2026-10-14T01:07:35.763362+00:00",
+  "data": [
+    {
+      "material_id": "mp-1201003",
+      "formula": "Cs4FeO4",
+      "band_gap": 2.000204144324141,
+      "formation_energy_per_atom": -1.498143178735633,
+      "energy_above_hull": 0.0,
+      "density": 5.0305574153231145,
+      "is_stable": true,
+      "elements": "Cs, Fe, O",
+      "nelements": 3,
+      "volume": 860.1687737708805,
+      "crystal_system": "Monoclinic",
+      "space_group": "P2_1/c",
+      "cache_status": "MISS"
+    },
+    {
+      "material_id": "mp-23565",
+      "formula": "Cr4AgBiO14",
+      "band_gap": 2.0004999999999997,
+      "formation_energy_per_atom": -1.535249863083333,
+      "energy_above_hull": 0.0,
+      "density": 4.020677547054142,
+      "is_stable": true,
+      "elements": "Ag, Bi, Cr, O",
+      "nelements": 4,
+      "volume": 309.2644186250251,
+      "crystal_system": "Tetragonal",
+      "space_group": "I4",
+      "cache_status": "MISS"
+    },
+    {
+      "material_id": "mp-746371",
+      "formula": "KCo2As2HO8",
+      "band_gap": 2.0012999999999996,
+      "formation_energy_per_atom": -1.6718926427500012,
+      "energy_above_hull": 0.0,
+      "density": 4.007707014973195,
+      "is_stable": true,
+      "elements": "As, Co, H, K, O",
+      "nelements": 5,
+      "volume": 722.2895678526602,
+      "crystal_system": "Monoclinic",
+      "space_group": "P2/c",
+      "cache_status": "MISS"
+    },
+    {
+      "material_id": "mp-554432",
+      "formula": "ReSbOF10",
+      "band_gap": 2.0016,
+      "formation_energy_per_atom": -2.535445320961539,
+      "energy_above_hull": 0.0,
+      "density": 3.7906794713593155,
+      "is_stable": true,
+      "elements": "F, O, Re, Sb",
+      "nelements": 4,
+      "volume": 450.2806308328015,
+      "crystal_system": "Monoclinic",
+      "space_group": "P2",
+      "cache_status": "MISS"
+    },
+    {
+      "material_id": "mp-762019",
+      "formula": "LiV(CO3)2",
+      "band_gap": 2.0016999999999996,
+      "formation_energy_per_atom": -2.1410628273333336,
+      "energy_above_hull": 0.0,
+      "density": 3.0421063064151146,
+      "is_stable": true,
+      "elements": "C, Li, O, V",
+      "nelements": 4,
+      "volume": 97.10719112597572,
+      "crystal_system": "Trigonal",
+      "space_group": "R-3",
+      "cache_status": "MISS"
+    }
+  ]
+}

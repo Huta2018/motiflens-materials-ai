@@ -1,0 +1,80 @@
+{
+  "cached_at": "2026-10-14T01:07:37.212410+00:00",
+  "data": [
+    {
+      "material_id": "mp-775855",
+      "formula": "NaMnPO4",
+      "band_gap": 2.2504,
+      "formation_energy_per_atom": -2.572038827350458,
+      "energy_above_hull": 0.0,
+      "density": 3.323827090177994,
+      "is_stable": true,
+      "elements": "Mn, Na, O, P",
+      "nelements": 4,
+      "volume": 345.5123619943194,
+      "crystal_system": "Orthorhombic",
+      "space_group": "Pnma",
+      "cache_status": "MISS"
+    },
+    {
+      "material_id": "mp-39160",
+      "formula": "CaTiFe(PO4)3",
+      "band_gap": 2.2509,
+      "formation_energy_per_atom": -2.896108553736772,
+      "energy_above_hull": 0.0,
+      "density": 2.9947141905679313,
+      "is_stable": true,
+      "elements": "Ca, Fe, O, P, Ti",
+      "nelements": 5,
+      "volume": 475.42425654558724,
+      "crystal_system": "Trigonal",
+      "space_group": "R3c",
+      "cache_status": "MISS"
+    },
+    {
+      "material_id": "mp-677731",
+      "formula": "Rb2NaNb6(PO8)3",
+      "band_gap": 2.251,
+      "formation_energy_per_atom": -2.93584741028633,
+      "energy_above_hull": 0.0,
+      "density": 3.656023677131635,
+      "is_stable": true,
+      "elements": "Na, Nb, O, P, Rb",
+      "nelements": 5,
+      "volume": 557.871444814028,
+      "crystal_system": "Monoclinic",
+      "space_group": "C2",
+      "cache_status": "MISS"
+    },
+    {
+      "material_id": "mp-556968",
+      "formula": "RbNa3SnO4",
+      "band_gap": 2.2514,
+      "formation_energy_per_atom": -1.8509380118486582,
+      "energy_above_hull": 0.0,
+      "density": 3.672322719646231,
+      "is_stable": true,
+      "elements": "Na, O, Rb, Sn",
+      "nelements": 4,
+      "volume": 1219.592071803255,
+      "crystal_system": "Tetragonal",
+      "space_group": "I4_1/a",
+      "cache_status": "MISS"
+    },
+    {
+      "material_id": "mp-560028",
+      "formula": "UTe6(OF5)6",
+      "band_gap": 2.2523,
+      "formation_energy_per_atom": -2.4105034253488364,
+      "energy_above_hull": 0.0,
+      "density": 3.267944642007568,
+      "is_stable": true,
+      "elements": "F, O, Te, U",
+      "nelements": 4,
+      "volume": 848.3615284088669,
+      "crystal_system": "Monoclinic",
+      "space_group": "C2/m",
+      "cache_status": "MISS"
+    }
+  ]
+}

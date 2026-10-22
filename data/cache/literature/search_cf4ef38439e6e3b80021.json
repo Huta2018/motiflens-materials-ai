@@ -1,0 +1,56 @@
+{
+  "cached_at": "2026-10-07T02:34:56.355751+00:00",
+  "data": [
+    {
+      "material_id": null,
+      "formula": "TiO2",
+      "openalex_id": "https://openalex.org/W2324576880",
+      "title": "Understanding TiO 2 Photocatalysis: Mechanisms and Materials",
+      "publication_year": 2014,
+      "publication_date": "2014-09-19",
+      "doi": "https://doi.org/10.1021/cr5001892",
+      "journal": "Chemical Reviews",
+      "authors": "Jenny Schneider; Masaya Matsuoka; Masakazu Anpo; Jinlong Zhang; Yu Horiuchi; Masakazu Anpo; Detlef Werner Bahnemann",
+      "cited_by_count": 6021,
+      "is_open_access": false,
+      "topics": "TiO2 Photocatalysis and Solar Cells; Advanced Photocatalysis Techniques; Advanced oxidation water treatment",
+      "clean_abstract": "ADVERTISEMENT RETURN TO ISSUEPREVReviewNEXTUnderstanding TiO2 Photocatalysis: Mechanisms and MaterialsJenny Schneider*\u2020, Masaya Matsuoka\u2021, Masato Takeuchi\u2021, Jinlong Zhang\u00a7, Yu Horiuchi\u2021, Masakazu Anpo\u2021, and Detlef W. Bahnemann*\u2020View Author Information\u2020 Institut f\u00fcr Technische Chemie, Leibniz Universit\u00e4t Hannover, Callinstrasse 3, D-30167 Hannover, Germany\u2021 Faculty of Engineering, Osaka Prefecture University, 1 Gakuen-cho, Sakai Osaka 599-8531, Japan\u00a7 Key Lab for Advanced Materials and Institute of Fine Chemicals, East China University of Science and Technology, Shanghai 200237, China*E-mail: [email protected]*E-mail: [email protected]Cite this: Chem. Rev. 2014, 114, 19, 9919\u20139986Publication Date (Web):September 19, 2014Publication History Received3 April 2014Published online19 September 2014Published inissue 8 October 2014https://pubs.acs.org/doi/10.1021/cr5001892https://doi.org/10.1021/cr5001892review-articleACS PublicationsCopyright \u00a9 2014 American Chemical SocietyRequest reuse permissionsArticle Views102458Altmetric-Citations4644LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InRedditEmail Other access optionsGet e-Alertsclose SUBJECTS:Electromagnetic radiation,Irradiation,Oxides,Photocatalysis,Photocatalysts Get e-Alerts",
+      "data_source": "OpenAlex API (live)",
+      "cache_status": "MISS"
+    },
+    {
+      "material_id": null,
+      "formula": "TiO2",
+      "openalex_id": "https://openalex.org/W2116561137",
+      "title": "Protonated Titanates and TiO2 Nanostructured Materials: Synthesis, Properties, and Applications",
+      "publication_year": 2006,
+      "publication_date": "2006-10-10",
+      "doi": "https://doi.org/10.1002/adma.200502696",
+      "journal": "Advanced Materials",
+      "authors": "Dmitry V. Bavykin; J.\u2009M. Friedrich; F. C. Walsh",
+      "cited_by_count": 1636,
+      "is_open_access": false,
+      "topics": "TiO2 Photocatalysis and Solar Cells; Mesoporous Materials and Catalysis; Chemical and Physical Properties of Materials",
+      "clean_abstract": "Abstract Tubular and fibrous nanostructures of titanates have recently been synthesized and characterized. Three general approaches (template assisted, anodic oxidation, and alkaline hydrothermal) for the preparation of nanostructured titanate and TiO2 are reviewed. The crystal structures, morphologies, and mechanism of formation of nanostructured titanates produced by the alkaline hydrothermal method are critically discussed. The physicochemical properties of nanostructured titanates are highlighted and the links between properties and applications are emphasized. Examples of early applications of nanostructured titanates in catalysis, photocatalysis, electrocatalysis, lithium batteries, hydrogen storage, and solar\u2010cell technologies are reviewed. The stability of titanate nanotubes at elevated temperatures and in acid media is considered.",
+      "data_source": "OpenAlex API (live)",
+      "cache_status": "MISS"
+    },
+    {
+      "material_id": null,
+      "formula": "TiO2",
+      "openalex_id": "https://openalex.org/W2160893284",
+      "title": "Photocatalytic Carbon\u2010Nanotube\u2013TiO2 Composites",
+      "publication_year": 2009,
+      "publication_date": "2009-03-13",
+      "doi": "https://doi.org/10.1002/adma.200802738",
+      "journal": "Advanced Materials",
+      "authors": "Karran V. Woan; Georgios Pyrgiotakis; Wolfgang M. Sigmund",
+      "cited_by_count": 1394,
+      "is_open_access": false,
+      "topics": "TiO2 Photocatalysis and Solar Cells; Advanced Photocatalysis Techniques; Advanced oxidation water treatment",
+      "clean_abstract": "Abstract The literature and advances in photocatalysis based on the combination of titania (TiO2) and carbon nanotubes is presented. The semiconductor basis for photocatalysis is introduced for anatase and rutile. Furthermore, the proposed mechanisms of catalytic enhancement resulting from the pairing of the titania semiconductor with either metallic, semiconducting, or defect\u2010rich carbon nanotubes (CNT) is discussed. Differences are apparent for the mixtures and chemically bonded CNT\u2013TiO2 composites. The article then highlights the recent advances in the synthesis techniques for these composites and their photocatalytic reactions with organic, inorganic, and biological agents. Finally, various applications and challenges for these composite materials are reported.",
+      "data_source": "OpenAlex API (live)",
+      "cache_status": "MISS"
+    }
+  ]
+}

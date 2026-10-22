@@ -1,0 +1,7 @@
+streamlit>=1.40,<2
+pandas>=2.0,<3
+openai>=1.50,<3
+python-dotenv>=1.0,<2
+psycopg[binary]>=3.2,<4
+mp-api>=0.45
+requests>=2.31,<3

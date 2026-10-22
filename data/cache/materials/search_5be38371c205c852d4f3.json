@@ -1,0 +1,80 @@
+{
+  "cached_at": "2026-10-14T01:07:34.451081+00:00",
+  "data": [
+    {
+      "material_id": "mp-778152",
+      "formula": "Sc2Pt2O7",
+      "band_gap": 1.8009000000000004,
+      "formation_energy_per_atom": -2.3557566190909074,
+      "energy_above_hull": 0.0,
+      "density": 8.14996511906863,
+      "is_stable": true,
+      "elements": "O, Pt, Sc",
+      "nelements": 3,
+      "volume": 241.26844496717132,
+      "crystal_system": "Cubic",
+      "space_group": "Fd-3m",
+      "cache_status": "MISS"
+    },
+    {
+      "material_id": "mp-22135",
+      "formula": "Na3FePCO7",
+      "band_gap": 1.8032000000000001,
+      "formation_energy_per_atom": -2.2757982845215987,
+      "energy_above_hull": 0.0,
+      "density": 2.933456154962907,
+      "is_stable": true,
+      "elements": "C, Fe, Na, O, P",
+      "nelements": 5,
+      "volume": 316.76615565222943,
+      "crystal_system": "Monoclinic",
+      "space_group": "P2_1/m",
+      "cache_status": "MISS"
+    },
+    {
+      "material_id": "mp-560090",
+      "formula": "Mn2Ni6Te3PbO18",
+      "band_gap": 1.8032000000000004,
+      "formation_energy_per_atom": -1.5332921386954033,
+      "energy_above_hull": 0.0,
+      "density": 6.781235626559763,
+      "is_stable": true,
+      "elements": "Mn, Ni, O, Pb, Te",
+      "nelements": 5,
+      "volume": 656.2712561959285,
+      "crystal_system": "Hexagonal",
+      "space_group": "P6_3/m",
+      "cache_status": "MISS"
+    },
+    {
+      "material_id": "mp-735662",
+      "formula": "Fe4As10PbO22",
+      "band_gap": 1.8034999999999999,
+      "formation_energy_per_atom": -1.6592445072972974,
+      "energy_above_hull": 0.0,
+      "density": 4.360501671495525,
+      "is_stable": true,
+      "elements": "As, Fe, O, Pb",
+      "nelements": 4,
+      "volume": 1166.6479575627793,
+      "crystal_system": "Triclinic",
+      "space_group": "P-1",
+      "cache_status": "MISS"
+    },
+    {
+      "material_id": "mp-555609",
+      "formula": "Sr9Zn4(CuO7)2",
+      "band_gap": 1.8049999999999997,
+      "formation_energy_per_atom": -2.492094681034483,
+      "energy_above_hull": 0.0,
+      "density": 5.040807724418205,
+      "is_stable": true,
+      "elements": "Cu, O, Sr, Zn",
+      "nelements": 4,
+      "volume": 461.6150546251065,
+      "crystal_system": "Monoclinic",
+      "space_group": "C2/m",
+      "cache_status": "MISS"
+    }
+  ]
+}
